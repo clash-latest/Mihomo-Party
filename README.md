@@ -1,6 +1,10 @@
 # Mihomo Party 官网资源最新版Clash下载
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="MihomoParty" src="https://github.com/user-attachments/assets/46bbaf58-db8e-419e-9dcb-29fcadcedc71" />
+</div>
+<br>
 
 ## :memo: Clash节点资源
 
